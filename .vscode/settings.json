@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "tiago-test-sonar",
+        "projectKey": "8c753a37c6e5fae4e2b47d339cb80b50468a456e"
+    }
+}
